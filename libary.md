@@ -4,7 +4,7 @@
 * I should get emailed if my book is due and not yet returned
 * I should search for available books by its title, category or author
 * I should be able to view all books i've borrowed
-* I should be able to view a particular book attributes
+* I should be able to view a particular book's details 
 * I should not borrow same book twice
 * Receive an email at the moment my request to borrow a book is accepted 
 
@@ -16,4 +16,4 @@ Create new books, add quantities and categorise books; Delete books from the lib
 * I mark book as lost and surcharge
 * I should be able to accept users request to borrow a book
 * I should be able to block/delete a user who does not adhere to library rules
-* I should be able to view all books borrowed and requested and respective borrowers
+* I should be able to view all books borrowed and requested with their respective borrowers
